@@ -8,6 +8,8 @@ import { navbarBrand, navs } from "../../config/config";
 import logoImage from "../Images/logoImage.png";
 import "../NavBar/NavBar.css";
 
+
+
 function NavBar() {
   const navigate = useNavigate();
 
